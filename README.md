@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+A Simple Clock App built using custom painter.
 
 <img src="https://i.ibb.co/Wf2CLrP/Screenshot-1599672784.png0" height="600" width="340">
 
